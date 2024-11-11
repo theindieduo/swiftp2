@@ -1,0 +1,6 @@
+framework module MyLibraryCP {
+  umbrella header "MyLibraryCP-umbrella.h"
+
+  export *
+  module * { export * }
+}
